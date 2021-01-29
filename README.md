@@ -17,3 +17,12 @@
 * two
 * three
 * four
+
+
+
+# Display  data as bold 
+this is **ALIET**
+
+
+#Display Data as italic
+ this is *ALIET*

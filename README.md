@@ -26,3 +26,10 @@ this is **ALIET**
 
 # Display Data as italic
  this is *ALIET*
+
+# HTML CODE
+ <ul>
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Milk</li>
+ </ul>
